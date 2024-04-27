@@ -17,6 +17,7 @@ Este é um projeto Node.js que oferece funcionalidades para gerenciar tarefas e 
   npm install
   npm install express
   npm install sequelize
+  node index.js (Para iniciar a aplicação)
   
 # Endpoints da API
 ## Tarefas
