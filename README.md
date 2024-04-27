@@ -10,6 +10,7 @@ Este é um projeto Node.js que oferece funcionalidades para gerenciar tarefas e 
 
 - Node.js instalado na sua máquina.
 - Um banco de dados SQLite configurado e acessível. Você pode ajustar as configurações de conexão no arquivo `db/db.js`.
+- Recomendo adicionar na raiz do projeto um arquivo mercado.sqlite
 - Dependências Node.js instaladas. Você pode instalá-las com o seguinte comando:
   
   ```bash
